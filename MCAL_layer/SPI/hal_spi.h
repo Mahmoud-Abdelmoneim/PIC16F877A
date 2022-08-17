@@ -1,8 +1,8 @@
 /* 
  * File:   hal_spi.h
- * Author: El-Wattaneya
+ * Author: Mahmoud Abdelmoniem
  *
- * Created on 11 ?????, 2022, 02:11 ?
+ * Created on 11 , 2022, 02:11 
  */
 
 #ifndef HAL_SPI_H
