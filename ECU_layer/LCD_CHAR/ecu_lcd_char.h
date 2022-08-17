@@ -1,8 +1,8 @@
 /* 
  * File:   ecu_lcd_char.h
- * Author: El-Wattaneya
+ * Author: Mahmoud Abdelmoniem
  *
- * Created on 12 ?????, 2022, 03:19 ?
+ * Created on 12 , 2022, 03:19 
  */
 
 #ifndef ECU_LCD_CHAR_H
