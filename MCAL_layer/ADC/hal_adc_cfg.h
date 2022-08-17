@@ -1,8 +1,8 @@
 /* 
  * File:   hal_adc_cfg.h
- * Author: El-Wattaneya
+ * Author:Mahmoud Abdelmoniem
  *
- * Created on 28 ?????, 2022, 12:17 ?
+ * Created on 28, 2022, 12:17 
  */
 
 #ifndef HAL_ADC_CFG_H
