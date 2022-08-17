@@ -2,7 +2,7 @@
  * File:   application.h
  * Author: Mahmoud Abdelmoniem
  *
- * Created on 10 ?????, 2022, 03:38 ?
+ * Created on 10 , 2022, 03:38 
  */
 
 #ifndef APPLICATION_H
