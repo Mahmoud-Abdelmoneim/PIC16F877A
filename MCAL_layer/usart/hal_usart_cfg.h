@@ -1,8 +1,8 @@
 /* 
  * File:   hal_usart_cfg.h
- * Author: El-Wattaneya
+ * Author: Mahmoud Abdelmoniem
  *
- * Created on 04 ?????, 2022, 01:04 ?
+ * Created on 04 , 2022, 01:04 
  */
 
 #ifndef HAL_USART_CFG_H
