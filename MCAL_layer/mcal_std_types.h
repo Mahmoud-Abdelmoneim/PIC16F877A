@@ -2,7 +2,7 @@
  * File:   mcal_std_types.h
  * Author: Mahmoud Abdelmoniem
  *
- * Created on 10 ?????, 2022, 03:19 ?
+ * Created on 10 , 2022, 03:19 
  */
 
 #ifndef MCAT_STD_TYPES_H
