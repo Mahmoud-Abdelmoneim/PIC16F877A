@@ -1,8 +1,8 @@
 /* 
  * File:   mcal_intrrupt_gen_cfg.h
- * Author: El-Wattaneya
+ * Author: Mahmoud Abdelmoniem
  *
- * Created on 26 ?????, 2022, 06:29 ?
+ * Created on 26 , 2022, 06:29 
  */
 
 #ifndef MCAL_INTRRUPT_GEN_CFG_H
