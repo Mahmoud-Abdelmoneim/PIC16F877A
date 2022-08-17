@@ -1,8 +1,8 @@
 /* 
  * File:   hal_timer2.h
- * Author: El-Wattaneya
+ * Author: Mahmoud Abdelmoniem
  *
- * Created on 30 ?????, 2022, 05:16 ?
+ * Created on 30 , 2022, 05:16 
  */
 
 #ifndef HAL_TIMER2_H
