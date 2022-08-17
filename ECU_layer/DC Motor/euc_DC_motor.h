@@ -1,8 +1,8 @@
 /* 
  * File:   euc_DC_motor.h
- * Author: El-Wattaneya
+ * Author: Mahmoud Abdelmoniem
  *
- * Created on 24 ?????, 2022, 07:36 ?
+ * Created on 24 , 2022, 07:36 
  */
 
 #ifndef EUC_DC_MOTOR_H
