@@ -1,8 +1,8 @@
 /* 
  * File:   hal_adc.h
- * Author: El-Wattaneya
+ * Author: Mahmoud Abdelmoniem
  *
- * Created on 28 ?????, 2022, 12:16 ?
+ * Created on 28 , 2022, 12:16 
  */
 
 #ifndef HAL_ADC_H
