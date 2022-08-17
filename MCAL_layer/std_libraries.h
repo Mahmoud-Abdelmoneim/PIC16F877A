@@ -1,8 +1,8 @@
 /* 
  * File:   std_libraries.h
- * Author: El-Wattaneya
+ * Author: Mahmoud Abdelmoniem
  *
- * Created on 10 ?????, 2022, 03:23 ?
+ * Created on 10 , 2022, 03:23 
  */
 
 #ifndef STD_LIBRARIES_H
