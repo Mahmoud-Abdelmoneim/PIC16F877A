@@ -1,8 +1,8 @@
 /* 
  * File:   ecu_ultrasonic_sensor.h
- * Author: El-Wattaneya
+ * Author: Mahmoud Abdelmoniem
  *
- * Created on 17 ?????, 2022, 03:41 ?
+ * Created on 17 , 2022, 03:41 
  */
 
 #ifndef ECU_ULTRASONIC_SENSOR_H
