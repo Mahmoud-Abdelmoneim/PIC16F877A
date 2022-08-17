@@ -1,8 +1,8 @@
 /* 
  * File:   euc_button.h
- * Author: El-Wattaneya
+ * Author: Mahmoud Abdelmoniem
  *
- * Created on 17 ?????, 2022, 08:28 ?
+ * Created on 17 , 2022, 08:28 
  */
 
 #ifndef EUC_BUTTON_H
