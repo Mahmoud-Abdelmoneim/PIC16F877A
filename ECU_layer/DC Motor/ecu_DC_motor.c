@@ -1,8 +1,8 @@
 /* 
  * File:   euc_DC_motor.c
- * Author: El-Wattaneya
+ * Author: Mahmoud Abdelmoniem
  *
- * Created on 24 ?????, 2022, 07:36 ?
+ * Created on 24 , 2022, 07:36 
  */
 
 #include "euc_DC_motor.h"
