@@ -1,8 +1,8 @@
 /* 
  * File:   compiler.h
- * Author: El-Wattaneya
+ * Author: Mahmoud Abdelmoniem
  *
- * Created on 10 ?????, 2022, 03:30 ?
+ * Created on 10 , 2022, 03:30 
  */
 
 #ifndef COMPILER_H
