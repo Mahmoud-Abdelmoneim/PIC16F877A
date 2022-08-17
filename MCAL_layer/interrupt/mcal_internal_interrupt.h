@@ -1,8 +1,8 @@
 /* 
  * File:   mcal_internal_interrupt.h
- * Author: El-Wattaneya
+ * Author: Mahmoud Abdelmoniem
  *
- * Created on 26 ?????, 2022, 05:40 ?
+ * Created on 26 , 2022, 05:40 
  */
 
 #ifndef MCAL_INTERNAL_INTERRUPT_H
