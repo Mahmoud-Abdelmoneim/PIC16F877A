@@ -1,8 +1,8 @@
 /* 
  * File:   hal_i2c.h
- * Author: El-Wattaneya
+ * Author: Mahmoud Abdelmoniem
  *
- * Created on 16 ?????, 2022, 06:42 ?
+ * Created on 16 , 2022, 06:42 
  */
 
 #ifndef HAL_I2C_H
