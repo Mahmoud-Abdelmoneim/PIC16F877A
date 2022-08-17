@@ -1,8 +1,8 @@
 /* 
  * File:   hal_gpio_cfg.h
- * Author: El-Wattaneya
+ * Author: Mahmoud Abdelmoniem
  *
- * Created on 14 ?????, 2022, 11:41 ?
+ * Created on 14 , 2022, 11:41 
  */
 
 #ifndef HAL_GPIO_CFG_H
