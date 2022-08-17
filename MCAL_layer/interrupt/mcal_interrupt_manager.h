@@ -1,8 +1,8 @@
 /* 
  * File:   mcal_interrupt_manager.h
- * Author: El-Wattaneya
+ * Author: Mahmoud Abdelmoniem
  *
- * Created on 26 ?????, 2022, 05:43 ?
+ * Created on 26 , 2022, 05:43 
  */
 
 #ifndef MCAL_INTERRUPT_MANAGER_H
