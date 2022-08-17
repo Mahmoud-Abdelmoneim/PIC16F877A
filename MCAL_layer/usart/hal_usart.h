@@ -1,8 +1,8 @@
 /* 
  * File:   hal_usart.h
- * Author: El-Wattaneya
+ * Author: Mahmoud Abdelmoniem
  *
- * Created on 04 ?????, 2022, 12:59 ?
+ * Created on 04 , 2022, 12:59 
  */
 
 #ifndef HAL_USART_H
