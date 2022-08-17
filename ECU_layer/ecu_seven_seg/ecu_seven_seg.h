@@ -1,8 +1,8 @@
 /* 
  * File:   ecu_seven_seg.h
- * Author: El-Wattaneya
+ * Author: Mahmoud Abdelmoniem
  *
- * Created on 25 ?????, 2022, 03:24 ?
+ * Created on 25 , 2022, 03:24 
  */
 
 #ifndef ECU_SEVEN_SEG_H
