@@ -1,8 +1,8 @@
 /* 
  * File:   hal_ccp1_cfg.h
- * Author: El-Wattaneya
+ * Author: Mahmoud Abdelmoniem
  *
- * Created on 01 ?????, 2022, 07:36 ?
+ * Created on 01 , 2022, 07:36 
  */
 
 #ifndef HAL_CCP1_CFG_H
